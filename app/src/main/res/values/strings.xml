@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+
+    <string-array name="nombres">
+        <item>Mustafi</item>
+        <item>Abdenour</item>
+        <item>Gayá</item>
+        <item>Cancelo</item>
+        <item>André</item>
+        <item>Parejo</item>
+        <item>E.Perez</item>
+        <item>Feghouli</item>
+        <item>Bakkali</item>
+        <item>Negredo</item>
+
+
+    </string-array>
+
+    <string name="item1"> mostrar</string>
+    <string name="item2"> eliminar</string>
+
+</resources>
